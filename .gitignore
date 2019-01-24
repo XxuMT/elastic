@@ -6,5 +6,4 @@
 .idea
 *.iml
 target
-GaeaConfigCenter_ucoms
-ConfigCenter_ucoms
+out
